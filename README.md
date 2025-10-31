@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Iteractive travel planner](https://sakshiwadaskar.netlify.app/portfolio)
 
-- 👯 I’m looking to collaborate on [Health Advisor Bot](https://sakshiwadaskar.netlify.app/portfolio)
+- 👯 I’m looking to collaborate on AI - powered [Health Advisor Bot](https://sakshiwadaskar.netlify.app/portfolio)
 
 - 👨‍💻 All of my projects are available at [https://sakshiwadaskar.netlify.app/](https://sakshiwadaskar.netlify.app/)
 
-- 💬 Ask me about **JAVA, C, PYTHON, REACT, JavaScript, TypeScript, Node.js, Flask, c#, .NET Core**
+- 💬 Ask me about **JAVA, C, PYTHON, REACT, JavaScript, TypeScript, Node.js, Flask, c#, .NET Core, Distributed Scalable Systems, ETL, KAFKA, Spark**
 
 - 📫 How to reach me **sakshisw29@gmail.com**
 
