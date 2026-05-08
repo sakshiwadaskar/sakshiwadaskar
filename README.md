@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi Mahesh Wadaskar</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Wadaskar</h1>
 <h3 align="center">Software Engineer | Java | Python | React | A passionate full stack developer from Boston.</h3>
 
 - 🔭 I’m currently working on [Iteractive travel planner](https://sakshiwadaskar.netlify.app/portfolio)
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sakshiwadaskar.netlify.app/](https://sakshiwadaskar.netlify.app/)
 
-- 💬 Ask me about **JAVA, C, PYTHON, REACT, JavaScript, TypeScript, Node.js, Flask, c#, .NET Core, Distributed Scalable Systems, ETL, KAFKA, Spark**
+- 💬 Ask me about **JAVA, C, PYTHON, REACT, JavaScript, TypeScript, Node.js, Flask, Distributed Scalable Systems, ETL, KAFKA, Spark**
 
 - 📫 How to reach me **sakshisw29@gmail.com**
 
