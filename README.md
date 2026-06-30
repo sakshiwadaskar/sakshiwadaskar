@@ -1,5 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sakshi Wadaskar</h1>
-<h3 align="center">Software Engineer | Java | Python | React | A passionate full stack developer from Boston.</h3>
+
+# Hi, I'm Sakshi Wadaskar 👋
+
+Full-stack Software Engineer building production AI systems — agentic AI routing, RAG pipelines, and document intelligence. Currently a Full Stack Engineer at **Saayam For All**, with prior experience at **Annaly Capital Management** and **Thoughtworks**.
+
+🔭 Currently building multi-agent LLM routing systems and evaluation frameworks  
+🌱 Recently picked up Marker for document conversion and Hugging Face model fine-tuning/deployment  
+📫 sakshisw29@gmail.com · [LinkedIn](https://linkedin.com/in/sakshiwadaskar) · [Portfolio](https://sakshiwadaskar.netlify.app)
+
+---
+
+## Featured Projects
+
+### 📊 [CapitalMirror — AI-Driven Financial Intelligence Platform](https://github.com/sakshiwadaskar/CapitalMirror-AI-Analytics)
+Business health dashboard that analyzes P&L statements (CSV, PDF, text) in under 60 seconds. Claude Sonnet extracts structured metrics, generates a weighted health score (0–100) against industry benchmarks, and surfaces interactive scenario sliders for real-time assumption modeling.  
+`Python` `FastAPI` `React 19` `TypeScript` `Tailwind CSS` `Claude Sonnet` `Recharts` `Railway` `Vercel`
+
+### 🤖 [FinPilot — Automated Financial Intelligence & Valuation Platform](https://biz-health-dashboard.vercel.app/)
+RAG pipeline using LangChain and the Anthropic Claude SDK over unstructured financial documents, replacing manual auditing workflows.  
+`Python` `React.js` `FastAPI` `Claude SDK` `RAG` `LangChain`
+
+### 🏥 Health Advisor Bot
+AI health advisory agent answering personalized wellness queries via conversational vector search. RAG pipeline using LangChain and a Vector DB, served via FastAPI.  
+`Python` `FastAPI` `LangChain` `Vector DB` `Gemma`
+
+### 🌍 [EcoEngage — Community Engagement Web App](https://eco-engage-web-application.vercel.app/)
+Full-stack social platform for community engagement. React/Redux frontend, Node.js RESTful APIs, OAuth 2.0 auth, deployed on Vercel with MongoDB.  
+`TypeScript` `React` `Node.js` `MongoDB` `Vercel`
+
+### 🏨 Bahmni Health Management System
+Open-source hospital management system. Contributed Java Spring modules with DynamoDB integration for patient record workflows.  
+`Java Spring` `DynamoDB`
+
+---
+
+## Tech Stack
+
+**AI/ML:** LangChain · RAG · Vector Databases · OpenAI API · Anthropic Claude SDK · Prompt Engineering · Hugging Face  
+**Languages:** Python · Java · TypeScript · JavaScript · SQL · Go  
+**Frontend:** React · Angular · Redux  
+**Backend:** FastAPI · Node.js · Spring Boot · Spring MVC  
+**Cloud/DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD
+
+---
+
+## Recent Highlights
+
+- Architected a multi-agent AI routing system orchestrating OpenAI and Gemini LLM calls via function calling, cutting query latency **85%**
+- Built an LLM evaluation framework benchmarking **630+ tokens/second** throughput
+- Built an on-prem document AI pipeline (OCR + LangChain) reducing manual data entry **65%** with **99%+ field accuracy** on financial trade data
 
 - 🔭 I’m currently working on [Iteractive travel planner](https://sakshiwadaskar.netlify.app/portfolio)
 
