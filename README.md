@@ -19,7 +19,7 @@ Business health dashboard that analyzes P&L statements (CSV, PDF, text) in under
 RAG pipeline using LangChain and the Anthropic Claude SDK over unstructured financial documents, replacing manual auditing workflows.  
 `Python` `React.js` `FastAPI` `Claude SDK` `RAG` `LangChain`
 
-### 🏥 Health Advisor Bot
+### 🏥 [Health Advisor Bot](https://github.com/sakshiwadaskar/health-advisor-bot)
 AI health advisory agent answering personalized wellness queries via conversational vector search. RAG pipeline using LangChain and a Vector DB, served via FastAPI.  
 `Python` `FastAPI` `LangChain` `Vector DB` `Gemma`
 
