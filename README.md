@@ -27,6 +27,10 @@ Full-stack analytics platform that turns a raw P&L (CSV, PDF, or pasted text) in
 Retrieval-augmented chatbot that answers general wellness questions (sleep, nutrition, exercise, stress, hydration) grounded strictly in a curated knowledge base — no hallucinated medical advice. Built a full RAG pipeline with LangChain over a Chroma vector store, served through FastAPI, and containerized with Docker for one-step deployment.  
 🔗 [Live demo](https://health-advisor-bot.onrender.com/) · `Python` `FastAPI` `LangChain` `ChromaDB` `Gemma` `Docker`
 
+### 🔧 [Schema-Drift Auto-Healing Pipeline](https://github.com/sakshiwadaskar/schema-drift-poc)
+Agentic pipeline that validates vendor CSV schemas against a rule-based config and escalates unresolved column drift to Gemini for structured mapping. Deterministic checks gate every LLM call; on high confidence the system patches its own config so the same drift never triggers an LLM call again, and on low confidence it quarantines the file for human review instead of risking a silent bad write.  
+`Python` `LangChain` `Pydantic` `Gemini 2.5 Flash` `pandas`
+
 ### 🌍 [EcoEngage — Community Engagement Web App](https://eco-engage-web-application.vercel.app/)
 Full-stack social platform for climate-focused community engagement. React/Redux frontend, Node.js RESTful APIs, OAuth 2.0 authentication, deployed on Vercel with MongoDB.  
 `TypeScript` `React` `Node.js` `MongoDB` `Vercel`
