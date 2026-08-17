@@ -31,9 +31,9 @@ Retrieval-augmented chatbot that answers general wellness questions (sleep, nutr
 Agentic pipeline that validates vendor CSV schemas against a rule-based config and escalates unresolved column drift to Gemini for structured mapping. Deterministic checks gate every LLM call; on high confidence the system patches its own config so the same drift never triggers an LLM call again, and on low confidence it quarantines the file for human review instead of risking a silent bad write.  
 `Python` `LangChain` `Pydantic` `Gemini 2.5 Flash` `pandas`
 
-### 🌍 [EcoEngage — Community Engagement Web App](https://eco-engage-web-application.vercel.app/)
-Full-stack social platform for climate-focused community engagement. React/Redux frontend, Node.js RESTful APIs, OAuth 2.0 authentication, deployed on Vercel with MongoDB.  
-`TypeScript` `React` `Node.js` `MongoDB` `Vercel`
+### 🌍 [EcoEngage — Community Engagement Web App]([https://eco-engage-web-application.vercel.app/](https://github.com/sakshiwadaskar/EcoEngageWebApplication))
+Full-stack social platform for climate-focused community engagement. React/Redux frontend, Node.js RESTful APIs, OAuth 2.0 authentication, deployed on Vercel with MongoDB.
+🔗 [Live demo](https://health-advisor-bot.onrender.com/) `TypeScript` `React` `Node.js` `MongoDB` `Vercel`
 
 ### 🏨 Bahmni Health Management System
 Open-source hospital management system. Contributed Java Spring modules with DynamoDB integration for patient record workflows.  
